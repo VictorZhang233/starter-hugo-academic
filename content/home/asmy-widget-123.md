@@ -2,7 +2,7 @@
 widget: about
 widget_id: asmy-widget-123
 headless: true
-weight: 10
+weight: 0
 title: sadsadsasda
 active: true
 design:
